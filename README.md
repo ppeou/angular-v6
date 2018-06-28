@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## CSS Framework
+Bulma is an open source CSS framework based on Flexbox and used by more than 100,000 developers.<br/>
+https://bulma.io/<br/>
+https://bulma.io/documentation/<br/>
+
+## ng-cli:
+ng g module newmodulename<br/>
+ng g component NewCompName --spec=false --skip-import=true --prefix= <br/>
+ng g service NewServiceName --spec=false --skip-import=true<br/>
+
